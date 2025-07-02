@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![npm](https://img.shields.io/npm/v/react-moralis)
+[![npm](https://img.shields.io/npm/v/react-moralis)](https://www.npmjs.com/package/react-moralis)
 ![node-current](https://img.shields.io/node/v/react-moralis)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MoralisWeb3/react-moralis)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-moralis)
